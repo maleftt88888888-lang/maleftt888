@@ -147,7 +147,7 @@ footer b{ color:#8fe0e6; }
 <div class="toast" id="toast"></div>
 <script>
 /* ---- Watermark: tiled, non-interactive, rebuilt if tampered with ---- */
-var WM_TEXT = 'YouTube：赛博工具人 @CyberHandyman 根据GitHub开源项目制作';
+
 function buildWM(){
   var host = document.getElementById('wm');
   if (!host){ host = document.createElement('div'); host.id = 'wm'; host.className = 'wm'; host.setAttribute('aria-hidden','true'); document.body.appendChild(host); }
