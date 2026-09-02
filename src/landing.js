@@ -96,8 +96,7 @@ footer b{ color:#8fe0e6; }
 <body>
 <div class="wrap">
   <div class="warn">
-    <div class="t">⚠️ 免费开源项目 · 禁止售卖</div>
-    <div class="b"><b>如果你是通过付款来到本页面，请立即联系退款。</b><br>任何售卖本项目 / 模块的都是骗子。一经发现立即删库，血本无归。</div>
+    <div class="t">⚠️ 免费开源项目 · 禁止售卖</div> 
   </div>
   <div class="disc">
     <div class="disc-t">免责声明</div>
@@ -105,20 +104,20 @@ footer b{ color:#8fe0e6; }
       <li>下载、安装或使用本项目，即视为你已阅读并同意本声明；如不同意，请立即停止使用。</li>
     </ol>
   </div>
-    <p class="ytline">📺 <a class="yt" href="https://www.youtube.com/@CyberHandyman/videos" target="_blank" rel="noopener">YouTube：CyberHandyman 赛博工具人</a></p>
+    <p class="ytline">📺 <a class="yt" href="https://www.youtube.com/@CyberHandyman/videos" target="_blank" rel="noopener">YouTube：CyberHandyman </a></p>
     <p class="credit">
-      fork from 鸣谢贡献者：<a href="https://github.com/Yu9191/wloc" target="_blank" rel="noopener">Yu9191</a> ·
-      <a href="https://github.com/mekos2772/ios-location-spoofer" target="_blank" rel="noopener">mekos2772</a> ·
-      <a href="https://github.com/acheong08/ios-location-spoofer" target="_blank" rel="noopener">acheong08</a>
+      fork from 鸣谢贡献者：<a href="https://wloc-spoofer.maleftt88888888.workers.dev/" target="_blank" rel="noopener">Yu9191</a> ·
+      <a href="https://wloc-spoofer.maleftt88888888.workers.dev/" target="_blank" rel="noopener">mekos2772</a> ·
+      <a href="https://wloc-spoofer.maleftt88888888.workers.dev/" target="_blank" rel="noopener">acheong08</a>
     </p>
     <p class="synced">✅ 已同步上游 <a href="https://github.com/Yu9191/wloc/releases" target="_blank" rel="noopener">Yu9191/wloc v1.1</a>：随机扰动半径 · 港澳台/百度坐标解析</p>
   </header>
 
   <div class="ctas">
     <a class="enter go" href="/picker">🗺️ 进入选点网页</a>
-    <a class="enter video" href="https://youtu.be/EspuRlKWUxc" target="_blank" rel="noopener">▶️ 视频教程</a>
+    <a class="enter video" href="https://wloc-spoofer.maleftt88888888.workers.dev/" target="_blank" rel="noopener">▶️ 视频教程</a>
   </div>
-  <a class="enter tg" href="https://t.me/cyberhandymancngroup" target="_blank" rel="noopener">✈️ 加入 Telegram 讨论群</a>
+  <a class="enter tg" href="https://wloc-spoofer.maleftt88888888.workers.dev/" target="_blank" rel="noopener">✈️ 加入 Telegram 讨论群</a>
 
   <div class="divider"></div>
 
